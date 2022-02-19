@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there!
 
-I'm biezhihua. I love to create something interesting. 👋
+I'm biezhihua. I love to create some interesting. 👋
 
 My ID is **biezhihua**.
 
