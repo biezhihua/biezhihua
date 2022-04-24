@@ -23,7 +23,7 @@ My ID is **biezhihua**.
 
 My top languages are [Rust](https://www.rust-lang.org/) and [Android](https://developer.android.google.cn/).
 
-[![biezhihua's GitHub stats](https://github-readme-stats.vercel.app/api?username=biezhihua)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
+[![biezhihua's GitHub stats](https://github-readme-stats.vercel.app/api?username=biezhihua&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 My projects:
 
