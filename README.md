@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 
 ### Hi there!
 
+![Count](https://api.nn.ci/biezhihua/count.svg?)
+
 I'm biezhihua. I love to create some interesting. 👋
 
-My ID is **biezhihua**.
+![skills](https://skillicons.dev/icons?i=android,java,rust,git,java,linux,stackoverflow,vscode)
 
-My top languages are [Rust](https://www.rust-lang.org/) and [Android](https://developer.android.google.cn/).
+[![](https://raw.githubusercontent.com/Xhofe/Xhofe/main/out/github-contribution-grid-snake.svg)](https://github.com/biezhihua)
 
 [![biezhihua's GitHub stats](https://github-readme-stats.vercel.app/api?username=biezhihua&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
