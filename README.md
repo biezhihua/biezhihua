@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I'm biezhihua. I love to create some interesting. 👋
 
-![skills](https://skillicons.dev/icons?i=android,java,rust,git,java,linux,stackoverflow,vscode)
+![skills](https://skillicons.dev/icons?i=java,kotlin,swift,rust,git,linux,stackoverflow,vscode,html,react,flutter)
 
 [![](https://raw.githubusercontent.com/Xhofe/Xhofe/main/out/github-contribution-grid-snake.svg)](https://github.com/biezhihua)
 
