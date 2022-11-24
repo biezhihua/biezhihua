@@ -15,22 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there!
+### Hi There
 
-![Count](https://api.nn.ci/biezhihua/count.svg?)
+I'm biezhihua. I love creating some interesting things. 
 
-I'm biezhihua. I love to create some interesting. 👋
+### My Skills
 
 ![skills](https://skillicons.dev/icons?i=java,kotlin,swift,rust,git,linux,stackoverflow,vscode,html,react,flutter)
 
-[![](https://raw.githubusercontent.com/Xhofe/Xhofe/main/out/github-contribution-grid-snake.svg)](https://github.com/biezhihua)
+### My Projects
 
-[![biezhihua's GitHub stats](https://github-readme-stats.vercel.app/api?username=biezhihua&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-My projects:
-
-+ [alibaba/GaiaX](https://github.com/alibaba/GaiaX): GaiaX是阿里巴巴优酷技术团队研发的一套轻量级的纯原生动态化卡片跨端解决方案.
-+ [biezhihua/libdsm](https://github.com/biezhihua/libdsm): An all platform wrapper for the libdsm(Defective SMB) library.
-+ [biezhihua/DYTT](https://github.com/biezhihua/DYTT): 电影天堂是电影天堂（网站版）的第三方客户端，一切资源都从该网站获取．
-+ [biezhihua/ffmpeg-libs-build-tool](https://github.com/biezhihua/ffmpeg-libs-build-tool): Convenient and fast library building tools.
-+ [biezhihua/splayer](https://github.com/biezhihua/splayer): 🚀🚀 Simple Player ! (Based on the ffmpeg core).
+- [alibaba/GaiaX](https://github.com/alibaba/GaiaX): GaiaX is a lightweight cross-platform solution.
+- [biezhihua/libdsm](https://github.com/biezhihua/libdsm): An all platform wrapper for the libdsm library.
+- [biezhihua/DYTT](https://github.com/biezhihua/DYTT): DYTT is a third client for dytt website.
+- [biezhihua/libs-build-tool](https://github.com/biezhihua/libs-build-tool): Convenient! Fast! A building tool for library.
+- [biezhihua/splayer](https://github.com/biezhihua/splayer): 🚀🚀 Simple Player ! (Based on the ffmpeg core).
